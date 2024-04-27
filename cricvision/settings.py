@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'cricvision.wsgi.app'
+WSGI_APPLICATION = 'cricvision.wsgi.application'
 
 
 # Database
