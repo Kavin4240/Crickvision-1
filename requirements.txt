@@ -6,7 +6,7 @@ cryptography==42.0.5
 Django==5.0.4
 gcloud==0.18.3
 googleapis-common-protos==1.63.0
-gunicorn=22.0.0
+gunicorn==22.0.0
 httplib2==0.22.0
 idna==3.7
 jwcrypto==1.5.6
