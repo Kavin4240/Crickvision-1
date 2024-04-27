@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-t#ia0fxljplj-ew%q!*%-%5)3j(+9k#f!$c*+0i(o%f587s#k+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'crickvision-1.onrender.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'crickvision-2.onrender.com']
 
 
 # Application definition
@@ -116,7 +116,7 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
 
-STATIC_URL = '/static/'
+STATIC_URL = 'main/static/'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
