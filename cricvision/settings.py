@@ -118,7 +118,8 @@ USE_TZ = True
 
 
 STATIC_URL = '/static/'
-STATIC_ROOT = BASE_DIR / 'static'
+STATIC_ROOT = '/main/static/css/static'
+
 
 
 # Default primary key field type
